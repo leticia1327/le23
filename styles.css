@@ -1,0 +1,25 @@
+body{
+
+background-image: url('img2.png');
+}
+
+.texto-1{
+color: black;
+
+}
+
+button{
+height: 65px;
+width: 200px;
+color: white;
+background-color: green;
+border-radius: 5px;
+cursor: pointer;
+
+}
+.img4{
+
+padding-right: 200px;
+
+
+}   
