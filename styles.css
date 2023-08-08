@@ -1,10 +1,11 @@
 body{
 
-background-image: url('img2.png');
+background-color: rgb(18, 153, 86);
+font-family: arial;
 }
 
 .texto-1{
-color: black;
+color:black;
 
 }
 
@@ -15,6 +16,7 @@ color: white;
 background-color: green;
 border-radius: 5px;
 cursor: pointer;
+transition: transform 200ms ease-in-out;
 
 }
 .img4{
@@ -23,3 +25,12 @@ padding-right: 200px;
 
 
 }   
+button:hover{
+transform: scale(1.05)
+
+
+}
+.img4{
+display: block;
+padding-top: 20px;
+}
